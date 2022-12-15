@@ -1,0 +1,5 @@
+numpy>=1.18.5
+pydantic~=1.9.1
+pytest~=7.1.2
+setuptools==63.4.3
+unyt~=2.9.2
